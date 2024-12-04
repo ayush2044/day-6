@@ -1,0 +1,38 @@
+.container{
+    min-height: 60vh;
+    display: flex;
+
+}
+.right{
+    display: flex;
+    width: 50%;
+    height: 200px;
+}
+.left{
+    width: 50%;
+    height: 200px;
+    padding: 5px;
+}
+.rr{
+    width: 50%;
+    height: 200px;
+}
+.rl{
+    width: 50%;
+    height: 200px;
+    padding: 5px;
+}
+.r-up{
+    width: 100%;
+    height: 95px;
+    padding: 5px;
+}
+.r-down{
+    width: 100%;
+    height: 95px;
+    padding: 5px;
+}
+img{
+    height: 100%;
+    width: 100%;
+}
